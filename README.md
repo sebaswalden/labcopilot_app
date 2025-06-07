@@ -2,6 +2,10 @@
 
 A React-based AI-powered assistant for chemical laboratory operations, providing configuration management and real-time safety monitoring.
 
+<img width="1800" alt="image" src="https://github.com/user-attachments/assets/7974b0da-41a6-4097-a137-667a9647c8f0" />
+<img width="1786" alt="image" src="https://github.com/user-attachments/assets/22a21f0a-af0c-4afa-be07-57b590d27d17" />
+
+
 ## 🧪 Overview
 
 Laboratory Copilot is a two-step application that helps laboratory operators:
